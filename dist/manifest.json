@@ -16,7 +16,7 @@
     "scripting" , "cookies" , "tabs"
   ],
   "host_permissions" : [
-      "https://leetcode.com/",
+      "https://leetcode.com/graphql",
       "<all_urls>"
   ],
   "optional_host_permissions":[
